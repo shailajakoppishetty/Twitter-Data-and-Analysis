@@ -1,5 +1,5 @@
 # Twitter-Data-and-Analysis
-BigData project (Flume)
+
 Twitter is an effective tool to get people excited about its products.
 Twitter makes it easy to engage users and communicate can provide
 word-of-mouth marketing for companies by discussing the products.
